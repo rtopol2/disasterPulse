@@ -1,0 +1,30 @@
+{
+  "name": "disaster_pulse",
+  "version": "0.0.1",
+  "description": "Suite of tools to detect potential natural disasters and provide useful information for volunteer response organizations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtopol2/disasterPulse.git"
+  },
+  "keywords": [
+    "disaster",
+    "tornado",
+    "response",
+    "volunteer",
+    "relief",
+    "nonprofit"
+  ],
+  "author": "Ross Topol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rtopol2/disasterPulse/issues"
+  },
+  "homepage": "https://github.com/rtopol2/disasterPulse#readme",
+  "dependencies": {
+    "angular": "^1.6.4"
+  }
+}
